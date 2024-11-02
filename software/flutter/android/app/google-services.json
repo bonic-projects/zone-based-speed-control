@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "19231145090",
+    "firebase_url": "https://zone-based-speed-control-default-rtdb.firebaseio.com",
+    "project_id": "zone-based-speed-control",
+    "storage_bucket": "zone-based-speed-control.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19231145090:android:0014c4fdea2628eb3fc89b",
+        "android_client_info": {
+          "package_name": "com.example.zone_based"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4uQFOCeyl83Q-zehh5CNX7nDsH91su_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19231145090:android:92c37f726ee712913fc89b",
+        "android_client_info": {
+          "package_name": "com.zone_based_control"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4uQFOCeyl83Q-zehh5CNX7nDsH91su_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

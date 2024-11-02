@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "zone-based-speed-control",
+          "appId": "1:19231145090:android:92c37f726ee712913fc89b",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "zone-based-speed-control",
+          "configurations": {
+            "android": "1:19231145090:android:92c37f726ee712913fc89b",
+            "ios": "1:19231145090:ios:be61ed2ad8921c2e3fc89b",
+            "macos": "1:19231145090:ios:be61ed2ad8921c2e3fc89b",
+            "web": "1:19231145090:web:f0a20031fa5f87843fc89b",
+            "windows": "1:19231145090:web:7f825464c5c2a5a03fc89b"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "us-central1"
+    }
+  }
+}
